@@ -16,4 +16,5 @@ else if (idade > 18 && temCarro == "não" && possuiCarteira == "sim") {
 //Se o usuário for maior de idade, tiver carta e carro exiba no console: "Giovanni, você será o motorista!"
 else if (idade > 18 && temCarro == "sim" && possuiCarteira == "sim") {
     console.log(nome + ', você será o motorista')
-}
+} 
+// teste git
